@@ -34,6 +34,10 @@ Run the SQL file: `student.sql` in MySQL Workbench or XAMPP.
 
 [Watch Project Demo Video](https://www.loom.com/share/bc6a32e3a283402b8b3eb77924c26f3a?sid=7bb9d8df-c339-4b8d-9315-8e489baeadea)
 
+## 📝 Project Completion Form
+
+[➡️ Click here to fill out the Project Completion Form](https://docs.google.com/forms/d/e/1FAIpQLSeGGE3xeU6SDWfq6rnGbYASnO1rBQp2UQ3ySFvCOIi2TI04WA/viewform?usp=dialog)
+
 ## 👨‍💻 Admin Credentials
 
 - Username: `admin`
